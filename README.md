@@ -91,16 +91,16 @@ Under the terms of the Creative Commons BY license, this dataset created by "Our
  - *Used CTE and Temp Table to perform Calculations on Partion By in previous query* 
 
 
-8. **Total Population Vs Full Vaccinations**
+8.**Total Population Vs Full Vaccinations**
 
   - *Demonstrates the percentage of people who have received all recommended vaccinations.* 
 
 
-9. **Daily administered vaccine doeses** 
+9.**Daily administered vaccine doeses** 
 
  - *Rate of Daily Vaccine Doses for the Population* 
 
-10. **GDP per capita VS Vaccininations**
+10.**GDP per capita VS Vaccininations**
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -109,8 +109,7 @@ Under the terms of the Creative Commons BY license, this dataset created by "Our
 ### **[Project 3: Covid-19 Vaccine Tracker](https://public.tableau.com/app/profile/bofihla.mokhali/viz/Proejct_1_Covid-19_Draft/GlobalVaccnineTracker?publish=yes)**
 **Business Task:** Track the progress of the global vaccination program
 
- 
-**Data:** [COVID-19 country_vaccinations.rar](https://drive.google.com/drive/folders/1JFJ8_mzXTr_xPbS-4qWqpJsOQCnazrxC) [Last accessed on 03/Jan/2023]
+ **Data:** [COVID-19 country_vaccinations.rar](https://drive.google.com/drive/folders/1JFJ8_mzXTr_xPbS-4qWqpJsOQCnazrxC) [Last accessed on 03/Jan/2023]
 
 This "our world in data" dataset has been preprocessed by [Lore so what](https://www.youtube.com/@loresowhat), who has granted permission to reuse it (under the Creative Commons Attribution license)
 
@@ -138,10 +137,11 @@ This "our world in data" dataset has been preprocessed by [Lore so what](https:/
 Covid-19 Global Vaccine Tracker
 
 - Calculated field used as a filter for dates
-- Date >= [Select Start Date] AND [Date] <= [Select End Date]
+
+<kbd>Date >= [Select Start Date] AND [Date] <= [Select End Date]</kbd>
 
 Parameters for dates
-- Start date 04/09/20, End date 25/10/21
+- <kbd>Start date 04/09/20</kbd>, <kbd>End date 25/10/21</kbd>
 
 
 **Filters**
