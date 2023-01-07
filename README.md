@@ -4,7 +4,7 @@
 
 ### **Project 1: Bike Sales**
 
-**Business Task:** analyze patterns and trends in the sales of bikes using a specified dataset.
+**Business Task:** Analyze patterns and trends in the sales of bikes using a specified dataset.
 
 **Data:** [Excel Project Dataset.csv](https://drive.google.com/drive/folders/1JFJ8_mzXTr_xPbS-4qWqpJsOQCnazrxC) 
 [Last accessed on 03/Jan/2023]
