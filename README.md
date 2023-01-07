@@ -41,7 +41,7 @@ The Customer Age Bracket (column chart), Customer Communite Distance (line chart
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Project 2: Covid 19 Data Exploration with SQL**
+### **[Project 2: Covid 19 Data Exploration with SQL](https://github.com/DesmondMokhali/Des_Portfolio/blob/bd1d20477e99512387dbda1e7dcb66b88c6c6e1c/Covid%2019%20Data%20Exploration%20with%20SQL.sql)**
 
 **Business Task:** Explore the impact of Covid-19 and the vaccination program globally
 
