@@ -2,7 +2,7 @@
 
 #### These are some of my personal projects, and the goal was to become acquainted with and comprehend some of the daily responsibilities of a data analyst. 
 
-### **Project 1: Bike Sales**
+### **[Project 1: Bike Sales](https://github.com/DesmondMokhali/Des_Portfolio/blob/70fe99263a5d9d373fb2b0a92af4e3e9f60c1a7f/Bike%20Sales.xlsx)**
 
 **Business Task:** Analyze patterns and trends in the sales of bikes using a specified dataset.
 
