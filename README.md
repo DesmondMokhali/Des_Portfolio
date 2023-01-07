@@ -2,7 +2,7 @@
 
 #### These are some of my personal projects, and the goal was to become acquainted with and comprehend some of the daily responsibilities of a data analyst. 
 
-### **[Project 1: Bike Sales]**
+### **Project 1: Bike Sales**
 
 **Business Task:** analyze patterns and trends in the sales of bikes using a specified dataset.
 
@@ -106,8 +106,7 @@ Under the terms of the Creative Commons BY license, this dataset created by "Our
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Project 3: Covid-19 Vaccine Tracker 
-
+### **[Project 3: Covid-19 Vaccine Tracker](https://public.tableau.com/app/profile/bofihla.mokhali/viz/Proejct_1_Covid-19_Draft/GlobalVaccnineTracker?publish=yes)**
 **Business Task:** Track the progress of the global vaccination program
 
  
