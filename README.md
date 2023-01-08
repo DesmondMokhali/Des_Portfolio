@@ -47,7 +47,7 @@ The Customer Age Bracket (column chart), Customer Communite Distance (line chart
 
 
 
-**Data:** [owid-covid-data.csv](https://ourworldindata.org/covid-deaths)[Last accessed on 03/Jan/2023]
+**Data:** [owid-covid-data.csv](https://ourworldindata.org/covid-deaths) [Last accessed on 03/Jan/2023]
 
 Under the terms of the Creative Commons BY license, this dataset created by "Our World in Data" is freely available. 
 
